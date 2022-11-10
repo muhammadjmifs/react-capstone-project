@@ -19,3 +19,6 @@
   -Pick again the same matching numbers until all numbers are green
   -Once all numbers are the same and green, You have won
   -Click restart to start again# react-tenzies-project
+
+  ## `Github`
+  To clone or view this App on github visit: https://github.com/muhammadjmifs/react-capstone-project
